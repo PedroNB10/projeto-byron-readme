@@ -6,6 +6,14 @@
 <img src="./gifs/haikyuu.gif" alt="Imagem 1">
 </center>
 
+## 📝Índice 
+- [📝Índice](#índice)
+- [📚 Sinopse e Introdução ao Anime](#-sinopse-e-introdução-ao-anime)
+- [🐱‍👤 Personagens Principais](#-personagens-principais)
+- [🏐 Algumas Técnicas de Vôlei apresentadas](#-algumas-técnicas-de-vôlei-apresentadas)
+- [📺 Temporadas e Filmes](#-temporadas-e-filmes)
+- [🤩 Motivo de escolha do Anime](#-motivo-de-escolha-do-anime)
+
 ## 📚 Sinopse e Introdução ao Anime
 
 Hinata Shoyo é um garoto do Ensino Médio que tem como sonho se tornar um jogador de vôlei profissional. Entretanto, por ter uma altura abaixo da média ele precisa desenvolver técnicas para conseguir atravessar a rede, uma grande muralha para ele, e lutar e se dedicar pela vitória nos jogos.
