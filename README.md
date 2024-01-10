@@ -6,7 +6,8 @@
 <img src="./gifs/haikyuu.gif" alt="Imagem 1">
 </center>
 
-## 📝Índice 
+## 📝Índice
+
 - [📝Índice](#índice)
 - [📚 Sinopse e Introdução ao Anime](#-sinopse-e-introdução-ao-anime)
 - [🐱‍👤 Personagens Principais](#-personagens-principais)
@@ -169,8 +170,6 @@ Haikyuu é um anime que nos ensina que o esforço e a dedicação podem superar 
 
 <img src="./img/tadashi.jpg" alt="Gif do Nishinoya" height=200>
 
-
-  
 </div>
 
 <h3>Tadashi Yamaguchi</h3>
@@ -186,9 +185,11 @@ Haikyuu é um anime que nos ensina que o esforço e a dedicação podem superar 
 <p style="margin-top: 30px;">Tadashi Yamaguchi, aluno do primeiro ano no colégio Karasuno, é um garoto de aparência jovem com cabelos verde-acinzentados. Ingressando no time de vôlei Karasuno, veste o uniforme com o número 12 e demonstra um crescimento pessoal desde o ensino médio, superando as preocupações com sardas e magreza. Tímido e confiante nos outros, Yamaguchi tende a rir junto com Tsukishima ao zombar dos colegas. Sua personalidade esforçada é evidenciada pelo treino extra, buscando aprimorar seu saque e se tornar mais útil para a equipe. Após uma derrota impactante contra Aobajohsai High, ganha confiança com a ajuda dos colegas e Shimada, praticando o saque flutuante. Seu confronto corajoso com Tsukishima durante o acampamento de treinamento fortalece sua relação, impulsionando ambos a melhorar. Yamaguchi é um comunicador eficaz, construindo amizades sólidas e ganhando a confiança do time ao treinar o saque flutuante.</p>
 
 ## 🏐 Algumas Técnicas de Vôlei apresentadas
+
 Ao decorrer do anime são apresentadas algumas estratégias de vôlei que até mesmo foram utilizadas diversos times profissionais de volêi que serviram como inspiração. Dentre elas, destacam-se:
 
 ### 1. Synchronized Attack
+
 <center>
 <img src="./img/synchronized-attack.jpg" alt="Gif do Nishinoya" height=400>
 </center>
@@ -205,7 +206,7 @@ Aqui está um exemplo da equipe da seleção Japonesa realizando essa estratégi
 
 O "setter dump" é uma estratégia tática em que o levantador finge que vai realizar uma jogada normal, mas em vez disso, ele decide manter a bola e tenta marcar um ponto surpreendendo a defesa contrária. Essa jogada é eficaz quando o adversário não está preparado para a rápida mudança na tática.
 
-Aqui está um exemplo executado pelo Bruno Rezende na seleção brasileira aos ```0:59``` do vídeo [Youtube Video](https://youtu.be/ruhrPRucIAs?si=GonwKRJ-iN7O0eTD&t=56).
+Aqui está um exemplo executado pelo Bruno Rezende na seleção brasileira aos `0:59` do vídeo [Youtube Video](https://youtu.be/ruhrPRucIAs?si=GonwKRJ-iN7O0eTD&t=56).
 
 ### 3. Quick Attack
 
@@ -215,8 +216,120 @@ Aqui está um exemplo executado pelo Bruno Rezende na seleção brasileira aos `
 
 O "Quick Attack" é uma técnica de voleibol destacada em Haikyuu!! pelo conjunto dinâmico entre Tobio Kageyama e Shoyo Hinata. Envolve um rápido e eficiente entendimento entre o levantador e o atacante, surpreendendo a defesa adversária. Hinata, conhecido por sua agilidade, ataca a bola enquanto ainda está subindo para a rede, pegando os oponentes desprevenidos e reduzindo o tempo de reação da defesa. Essa jogada é uma arma estratégica para ganhar pontos rapidamente, capitalizando a velocidade e habilidades individuais dos jogadores envolvidos. Em Haikyuu!!, Kageyama e Hinata aprimoram essa técnica com o "Freak Quick", uma variação emocionante.
 
-Aqui está uma variação executada pelo Flávio e o Fernando da seleção brasileira aos ```0:17``` do vídeo [Youtube Video](https://youtu.be/29BMd8cuBsg?si=ZvWqPMDf4kCEM1kK)
+Aqui está uma variação executada pelo Flávio e o Fernando da seleção brasileira aos `0:17` do vídeo [Youtube Video](https://youtu.be/29BMd8cuBsg?si=ZvWqPMDf4kCEM1kK)
 
 ## 📺 Temporadas e Filmes
+
+### Temporada 1
+
+<div style="display: flex; justify-content: space-between;">
+
+<img src="./img/season_1.webp" alt="Imagem da primeira temporada" height=200>
+
+<img src="./gifs/season1.gif" alt="Gif da primeira temporada" height=200>
+
+</div>
+<p>
+<div>
+A primeira temporada desenrola a turbulenta relação entre Hinata e Kageyama, enquanto a equipe Karasuno se esforça para se destacar em meio a escolas rivais de voleibol de elite. Com treinamentos intensos, jogos eletrizantes e rivalidades acirradas, os membros do time Karasuno aprendem a confiar uns nos outros, descobrindo o verdadeiro significado do trabalho em equipe e da superação pessoal. A temporada gira em torno de um torneio intercolegial, em que a determinação de Hinata e seus companheiros é posta à prova diante de desafios formidáveis, preparando o terreno para futuros confrontos emocionantes.
+</div>
+</p>
+
+### Temporada 2
+
+<div style="display: flex; justify-content: space-between;">
+
+<img src="./img/season_2.webp" alt="Imagem da segunda temporada" height=200>
+
+<img src="./gifs/season2.gif" alt="Gif da segunda temporada" height=200>
+
+</div>
+<p>
+<div>
+Na segunda temporada, a equipe Karasuno, agora mais determinada do que nunca, continua sua jornada no mundo competitivo do vôlei. O foco central recai sobre o Torneio de Primavera, um evento onde as melhores equipes da região se enfrentam em uma competição acirrada. O entrosamento aprimorado entre Shoyo Hinata e Tobio Kageyama se torna a chave para o sucesso do time, enquanto eles enfrentam desafios ainda mais formidáveis e equipes adversárias cada vez mais talentosas.
+
+Ao longo da temporada, novos personagens são introduzidos, como a equipe formidável Aoba Johsai High School, liderada pelo talentoso setter Tooru Oikawa. A Aoba Johsai é conhecida por sua habilidade técnica refinada e pela capacidade de Oikawa de orquestrar jogadas incríveis. A rivalidade entre as equipes atinge um novo patamar, criando confrontos intensos e momentos emocionantes em quadra e para o espectador.
+
+</div>
+</p>
+
+### Temporada 3
+
+<div style="display: flex; justify-content: space-between;">
+
+<img src="./img/season_3.webp" alt="Imagem da terceira temporada" height=200>
+
+<img src="./gifs/season3.gif" alt="Gif da terceira temporada" height=200>
+
+</div>
+<p>
+<div>
+Na terceira temporada, Karasuno enfrenta seu desafio mais formidável até o momento ao se deparar com a poderosa equipe da Academia Shiratorizawa. Sob a liderança do implacável Ushijima Wakatoshi, Shiratorizawa é conhecida por sua força física avassaladora e pela habilidade singular de Ushijima como um atacante excepcional.
+
+A temporada se concentra no aguardado Torneio de Outono, onde as equipes de voleibol colegial competem pelo título regional. Karasuno, determinada a superar seus limites, encara Shiratorizawa nas eliminatórias, dando início a um confronto épico. A equipe de Karasuno, liderada por Shoyo Hinata e Tobio Kageyama, busca superar as expectativas e provar que podem competir no mais alto nível.
+
+A rivalidade entre Karasuno e Shiratorizawa é intensificada por uma atmosfera tensa e partidas emocionantes, levando os jogadores ao limite de suas habilidades. Além do desafio em quadra, a temporada explora os esforços da equipe Karasuno para compreender e superar as estratégias únicas de Shiratorizawa, bem como o desenvolvimento dos personagens enquanto enfrentam um adversário tão formidável.
+
+A 3ª temporada de "Haikyuu!!" é repleta de momentos dramáticos e reviravoltas emocionantes.
+
+</div>
+</p>
+
+### Temporada 4
+
+<div style="display: flex; justify-content: space-between;">
+
+<img src="./img/season4.webp" alt="Imagem da quarta temporada" height=200>
+
+<img src="./gifs/season4.gif" alt="Gif da quarta temporada" height=200>
+
+</div>
+<p>
+<div>
+
+Na quarta temporada, Karasuno enfrenta novos desafios e adversários enquanto continua sua jornada no competitivo mundo do voleibol colegial. O foco principal recai sobre o Torneio Nacional, onde as melhores equipes do país se encontram para competir em uma batalha feroz.
+
+Durante a temporada, Karasuno se depara com a talentosa e estratégica equipe da Escola Secundária Inarizaki, liderada pelos habilidosos irmãos gêmeos Atsumu e Osamu Miya. Os Miya são conhecidos por suas jogadas sincronizadas e táticas imprevisíveis, proporcionando uma competição acirrada e inovadora para Karasuno.
+
+Além de Inarizaki, a jornada de Karasuno no Torneio Nacional envolve encontros com outras equipes notáveis, como a Escola Secundária Tsubakihara e a Escola Secundária Kamomedai. Cada equipe traz seu próprio conjunto de desafios únicos, testando a determinação, habilidade e trabalho em equipe de Karasuno.
+
+A busca de Karasuno pelo título nacional é repleta de emoções, surpresas e lições valiosas, solidificando ainda mais a reputação da série como uma obra-prima do gênero esportivo.
+
+</div>
+</p>
+
+### Primeiro filme
+
+<div style="display: flex; justify-content: space-between;">
+
+<img src="./img/film1.webp" alt="Imagem do primeiro filme" height=200>
+
+<img src="./gifs/filme-1.gif" alt="Gif do primeiro filme" height=200>
+
+</div>
+<p>
+<div>
+
+No primeiro filme, intitulado "Haikyuu!!: A Batalha dos Corvos", a história se concentra em um dos confrontos mais esperados do mundo do voleibol colegial: Karasuno contra Nekoma. A rivalidade entre essas duas equipes atinge o ápice quando são colocadas frente a frente em um torneio crucial.
+
+Enquanto a equipe Karasuno, liderada por Shoyo Hinata e Tobio Kageyama, busca afirmar seu lugar entre as melhores, a Nekoma High School, comandada pelo estrategista Tetsuro Kuroo, está determinada a provar que são a equipe mais forte e inteligente em quadra. O filme mergulha nos bastidores das duas equipes, explorando suas motivações, táticas e a profunda amizade entre os jogadores.
+
+</div>
+</p>
+
+### Segundo filme (FINAL)
+
+<div style="display: flex; justify-content: space-between;">
+
+<img src="./img/film2.webp" alt="Imagem do segundo filme" height=200>
+
+</div>
+<p>
+<div>
+
+O último filme de Haikyuu deve mostrar o final da trama, apesar de não ter muitos detalhes, acredita-se que ele será lançado ao final de 2024 e mostrará o futuro da batalha de Karasuno e do destino dos parceiros Hinata e Kageyama no mundo do vôlei.
+
+</div>
+</p>
 
 ## 🤩 Motivo de escolha do Anime
