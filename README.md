@@ -332,3 +332,5 @@ O último filme de Haikyuu deve mostrar o final da trama, apesar de não ter mui
 </p>
 
 ## 🤩 Motivo de escolha do Anime
+
+A príncipio escolhemos esse anime como tema do nosso readme pois é um que nos temos em comum e simpatizamos bastante, além de que a história de cada personagem é única e o desenvolvimento de cada um tem sua interferência positiva principalmente no trabalho em equipe.
