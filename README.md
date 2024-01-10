@@ -178,36 +178,6 @@ Haikyuu é um anime que nos ensina que o esforço e a dedicação podem superar 
 <p style="margin-top: 30px;">Tadashi Yamaguchi, aluno do primeiro ano no colégio Karasuno, é um garoto de aparência jovem com cabelos verde-acinzentados. Ingressando no time de vôlei Karasuno, veste o uniforme com o número 12 e demonstra um crescimento pessoal desde o ensino médio, superando as preocupações com sardas e magreza. Tímido e confiante nos outros, Yamaguchi tende a rir junto com Tsukishima ao zombar dos colegas. Sua personalidade esforçada é evidenciada pelo treino extra, buscando aprimorar seu saque e se tornar mais útil para a equipe. Após uma derrota impactante contra Aobajohsai High, ganha confiança com a ajuda dos colegas e Shimada, praticando o saque flutuante. Seu confronto corajoso com Tsukishima durante o acampamento de treinamento fortalece sua relação, impulsionando ambos a melhorar. Yamaguchi é um comunicador eficaz, construindo amizades sólidas e ganhando a confiança do time ao treinar o saque flutuante.</p>
 
 ## 🏐 Algumas Técnicas de Vôlei apresentadas
-Ao decorrer do anime são apresentadas algumas estratégias de vôlei que até mesmo foram utilizadas diversos times profissionais de volêi que serviram como inspiração. Dentre elas, destacam-se:
-
-### 1. Synchronized Attack
-<center>
-<img src="./img/synchronized-attack.jpg" alt="Gif do Nishinoya" height=400>
-</center>
-
-O ataque sincronizado, ou "synchronized attack" em inglês, é uma técnica que envolve uma coordenação precisa entre os jogadores para criar um ataque eficaz. No contexto de Haikyuu!!, o ataque sincronizado é frequentemente representado pelos conjuntos bem coordenados de Kageyama e os ataques precisos de seus companheiros de equipe, especialmente Hinata. O rápido entendimento e sincronia entre o levantador e os atacantes são essenciais para a execução bem-sucedida dessa técnica. Isso reflete a importância da comunicação e trabalho em equipe no vôlei profissional, onde ataques sincronizados podem superar a defesa adversária de maneira eficiente.
-
-Aqui está um exemplo da equipe da seleção Japonesa realizando essa estratégia: [Youtube Video](https://youtu.be/N_YuIoocBvo?si=W7BjwkRZWiDVuDWa).
-
-### 2. Setter Dump
-
-<center>
-<img src="./gifs/setter-dump.gif" alt="Gif do Nishinoya" height=300>
-</center>
-
-O "setter dump" é uma estratégia tática em que o levantador finge que vai realizar uma jogada normal, mas em vez disso, ele decide manter a bola e tenta marcar um ponto surpreendendo a defesa contrária. Essa jogada é eficaz quando o adversário não está preparado para a rápida mudança na tática.
-
-Aqui está um exemplo executado pelo Bruno Rezende na seleção brasileira aos ```0:59``` do vídeo [Youtube Video](https://youtu.be/ruhrPRucIAs?si=GonwKRJ-iN7O0eTD&t=56).
-
-### 3. Quick Attack
-
-<center>
-<img src="./gifs/quick-attack.gif" alt="Gif do Nishinoya" height=300>
-</center>
-
-O "Quick Attack" é uma técnica de voleibol destacada em Haikyuu!! pelo conjunto dinâmico entre Tobio Kageyama e Shoyo Hinata. Envolve um rápido e eficiente entendimento entre o levantador e o atacante, surpreendendo a defesa adversária. Hinata, conhecido por sua agilidade, ataca a bola enquanto ainda está subindo para a rede, pegando os oponentes desprevenidos e reduzindo o tempo de reação da defesa. Essa jogada é uma arma estratégica para ganhar pontos rapidamente, capitalizando a velocidade e habilidades individuais dos jogadores envolvidos. Em Haikyuu!!, Kageyama e Hinata aprimoram essa técnica com o "Freak Quick", uma variação emocionante.
-
-Aqui está uma variação executada pelo Flávio e o Fernando da seleção brasileira aos ```0:17``` do vídeo [Youtube Video](https://youtu.be/29BMd8cuBsg?si=ZvWqPMDf4kCEM1kK)
 
 ## 📺 Temporadas e Filmes
 
