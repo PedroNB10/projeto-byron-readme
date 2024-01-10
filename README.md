@@ -319,11 +319,12 @@ Enquanto a equipe Karasuno, liderada por Shoyo Hinata e Tobio Kageyama, busca af
 
 ### Segundo filme (FINAL)
 
-<div style="display: flex; justify-content: space-between;">
-
+<p>
+<center>
 <img src="./img/film2.webp" alt="Imagem do segundo filme" height=200>
+</center>
 
-</div>
+</p>
 <p>
 <div>
 
