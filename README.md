@@ -1,5 +1,5 @@
 <center>
-    <h1>Haikyuu!! 🏐</h1>
+    <h1>Haikyuu!!🏐</h1>
 </center>
 
 <center>
