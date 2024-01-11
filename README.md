@@ -142,7 +142,7 @@ Haikyuu é um anime que nos ensina que o esforço e a dedicação podem superar 
   
 </div>
 
-<h3>Asahi Azumane</h3>
+<h3>Daichi Sawamura</h3>
 
 ```
 {
@@ -231,7 +231,7 @@ Aqui está uma variação executada pelo Flávio e o Fernando da seleção brasi
 
 ### Temporada 1
 
-<div style="display: flex; justify-content: space-between;">
+<div style="display: flex; justify-content: center;">
 
 <img src="./img/season_1.webp" alt="Imagem da primeira temporada" height=200>
 
@@ -246,7 +246,7 @@ A primeira temporada desenrola a turbulenta relação entre Hinata e Kageyama, e
 
 ### Temporada 2
 
-<div style="display: flex; justify-content: space-between;">
+<div style="display: flex; justify-content: center;">
 
 <img src="./img/season_2.webp" alt="Imagem da segunda temporada" height=200>
 
@@ -264,7 +264,7 @@ Ao longo da temporada, novos personagens são introduzidos, como a equipe formid
 
 ### Temporada 3
 
-<div style="display: flex; justify-content: space-between;">
+<div style="display: flex; justify-content: center;">
 
 <img src="./img/season_3.webp" alt="Imagem da terceira temporada" height=200>
 
@@ -286,7 +286,7 @@ A 3ª temporada de "Haikyuu!!" é repleta de momentos dramáticos e reviravoltas
 
 ### Temporada 4
 
-<div style="display: flex; justify-content: space-between;">
+<div style="display: flex; justify-content: center;">
 
 <img src="./img/season4.webp" alt="Imagem da quarta temporada" height=200>
 
@@ -309,7 +309,7 @@ A busca de Karasuno pelo título nacional é repleta de emoções, surpresas e l
 
 ### Primeiro filme
 
-<div style="display: flex; justify-content: space-between;">
+<div style="display: flex; justify-content: center;">
 
 <img src="./img/film1.webp" alt="Imagem do primeiro filme" height=200>
 
