@@ -12,7 +12,16 @@
 - [📚 Sinopse e Introdução ao Anime](#-sinopse-e-introdução-ao-anime)
 - [🐱‍👤 Personagens Principais](#-personagens-principais)
 - [🏐 Algumas Técnicas de Vôlei apresentadas](#-algumas-técnicas-de-vôlei-apresentadas)
+  - [1. Synchronized Attack](#1-synchronized-attack)
+  - [2. Setter Dump](#2-setter-dump)
+  - [3. Quick Attack](#3-quick-attack)
 - [📺 Temporadas e Filmes](#-temporadas-e-filmes)
+  - [Temporada 1](#temporada-1)
+  - [Temporada 2](#temporada-2)
+  - [Temporada 3](#temporada-3)
+  - [Temporada 4](#temporada-4)
+  - [Primeiro filme](#primeiro-filme)
+  - [Segundo filme (FINAL)](#segundo-filme-final)
 - [🤩 Motivo de escolha do Anime](#-motivo-de-escolha-do-anime)
 
 ## 📚 Sinopse e Introdução ao Anime
@@ -25,9 +34,9 @@ Haikyuu é um anime que nos ensina que o esforço e a dedicação podem superar 
 
 ## 🐱‍👤 Personagens Principais
 
-<div style="display: flex; justify-content: space-between;">
+<div style="display: flex; justify-content: center;">
   
-  <img src="./img/hinata.jpg" alt="Imagem do Hinata" height=200>
+  <img src="./img/hinata.jpg" alt="Imagem do Hinata" height=200 style="margin-right: 10vw;">
 
   <img src="./gifs/decoy.gif" alt="Gif do Hinata" height=200>
 
@@ -45,9 +54,9 @@ Haikyuu é um anime que nos ensina que o esforço e a dedicação podem superar 
 
 <p style="margin-top: 30px;">Shoyo Hinata, protagonista de Haikyuu!!, é um estudante do primeiro ano no Colégio Karasuno e um bloqueador central no time de vôlei. Com 162.8cm, é a segunda pessoa mais baixa da equipe, mas compensa sua estatura com habilidades de salto. Seu sonho é superar bloqueadores altos, inspirado pelo Pequeno Gigante, e após se formar, treina vôlei de praia no Brasil por dois anos. Ao retornar ao Japão, junta-se ao time MSBY Black Jackals na 1ª divisão da Liga V. Hinata é conhecido por sua personalidade animada e energética, sendo simplista e observador. Apesar de sua natureza extrovertida, demonstra seriedade e coragem no vôlei, revelando uma intensa paixão pelo esporte. </p>
 
-<div style="display: flex; justify-content: space-between;">
+<div style="display: flex; justify-content: center;">
 
-  <img src="./gifs/setter.gif" alt="Gif do Tobio" height=200>
+  <img src="./gifs/setter.gif" alt="Gif do Tobio" height=200 style="margin-right: 10vw;">
 
   <img src="./img/tobio.jpg" alt="Imagem do Tobio" height=200>
 
@@ -65,9 +74,9 @@ Haikyuu é um anime que nos ensina que o esforço e a dedicação podem superar 
 
 <p style="margin-top: 30px;">Tobio Kageyama é o levantador titular do time de vôlei masculino da escola Karasuno, conhecido por sua altura, olhar afiado e aura intimidadora. Inicialmente, ele era mal-humorado, arrogante e impaciente, apelidado de "O Rei da Quadra" devido ao seu autoritarismo. No entanto, por trás dessa fachada, Kageyama é mais sensível do que aparenta, incapaz de controlar sua frustração adequadamente. Após enfrentar o abandono de seus colegas, desenvolveu o medo de ser desprezado. Ao juntar-se à Karasuno, amadureceu, tornando-se mais respeitoso e compreendendo a importância do trabalho em equipe no vôlei, dedicando-se ao sucesso coletivo.</p>
 
-<div style="display: flex; justify-content: space-between;">
+<div style="display: flex; justify-content: center;">
 
-  <img src="./img/nishinoya.jpg" alt="Imagem do Nishinoya" height=200>
+  <img src="./img/nishinoya.jpg" alt="Imagem do Nishinoya" height=200 style="margin-right: 10vw;">
 
   <img src="./gifs/libero.gif" alt="Gif do Nishinoya" height=200>
 
@@ -85,9 +94,9 @@ Haikyuu é um anime que nos ensina que o esforço e a dedicação podem superar 
 
 <p style="margin-top: 30px;">Yu Nishinoya, Líbero do time de vôlei da escola Karasuno, é um aluno do 2º ano e conhecido como o "Divino Guardião da Karasuno" pelos colegas de equipe. Sendo o mais baixo do time, ele destaca-se por seu cabelo despenteado e camisas com frases aleatórias. Apesar de sua estatura, Nishinoya é enérgico, temperamental e notável por suas peripécias malucas. Ele demonstra atenção aos sentimentos dos amigos, embora sua natureza impulsiva cause problemas. Nishinoya é tímido ao conversar com garotas desconhecidas, mas tem um interesse especial em Kiyoko Shimizu, compartilhado com Tanaka. Apesar de sua impaciência, ele se torna incrivelmente focado e sério durante os jogos, sendo admirado por sua habilidade e trabalho árduo, praticando continuamente para aprimorar suas habilidades. Seu passado revela que era um "grande gato assustado" quando criança, superando seus medos com a ajuda do avô, o que moldou sua tenacidade e coragem durante as partidas.</p>
 
-<div style="display: flex; justify-content: space-between;">
+<div style="display: flex; justify-content: center;">
 
-  <img src="./gifs/wing-spiker.gif" alt="Imagem do Nishinoya" height=200>
+  <img src="./gifs/wing-spiker.gif" alt="Imagem do Nishinoya" height=200 style="margin-right: 10vw;">
 
   <img src="./img/tanaka.jpg" alt="Gif do Nishinoya" height=200>
 
@@ -105,9 +114,9 @@ Haikyuu é um anime que nos ensina que o esforço e a dedicação podem superar 
 
 <p style="margin-top: 30px;">Ryunosuke Tanaka, atacante e ás em ascensão do clube de vôlei masculino da escola Karasuno, é aluno do segundo ano. Com a cabeça raspada, olhos azul-acinzentados (castanho nas ilustrações coloridas do mangá) e corpo musculoso, ele frequentemente é confundido com um delinquente devido à sua aparência intimidadora. No primeiro ano em Karasuno, seu cabelo era curto e bagunçado, tingido de loiro. Tanaka tem o hábito de fazer expressões ameaçadoras para assustar as pessoas, resultando em repreensões de Daichi.</p>
 
-<div style="display: flex; justify-content: space-between;">
+<div style="display: flex; justify-content: center;">
 
-<img src="./img/asahi.jpg" alt="Gif do Nishinoya" height=200>
+<img src="./img/asahi.jpg" alt="Gif do Nishinoya" height=200 style="margin-right: 10vw;">
 
 <img src="./gifs/ace.gif" alt="Imagem do Nishinoya" height=200>
   
@@ -125,11 +134,11 @@ Haikyuu é um anime que nos ensina que o esforço e a dedicação podem superar 
 
 <p style="margin-top: 30px;">Asahi Azumane, aluno do terceiro ano na escola Karasuno, desempenha o papel de ace no time de vôlei masculino da instituição. Com cabelos longos presos em um coque apertado, pouco acima dos ombros, e olhos castanhos escuros, Asahi apresenta uma imagem distinta. O uso de uma faixa complementa sua aparência, contribuindo para sua presença marcante como o principal jogador ofensivo do time de vôlei da Karasuno.</p>
 
-<div style="display: flex; justify-content: space-between;">
+<div style="display: flex; justify-content: center;">
 
-<img src="./gifs/daichi.gif" alt="Gif do Nishinoya" height=200>
+<img src="./gifs/daichi.gif" alt="Gif do Daichi" height=200 style="margin-right: 10vw;">
 
-<img src="./img/daichi.jpg" alt="Imagem do Nishinoya" height=200>
+<img src="./img/daichi.jpg" alt="Imagem do Daichi" height=200>
   
 </div>
 
@@ -143,13 +152,13 @@ Haikyuu é um anime que nos ensina que o esforço e a dedicação podem superar 
 }
 ```
 
-<p style="margin-top: 30px;">Asahi Azumane, aluno do terceiro ano na escola Karasuno, desempenha o papel de ace no time de vôlei masculino da instituição. Com cabelos longos presos em um coque apertado, pouco acima dos ombros, e olhos castanhos escuros, Asahi apresenta uma imagem distinta. O uso de uma faixa complementa sua aparência, contribuindo para sua presença marcante como o principal jogador ofensivo do time de vôlei da Karasuno.</p>
+<p style="margin-top: 30px;">Daichi Sawamura, aluno do terceiro ano na escola Karasuno, ocupa o papel de Capitão e Atacante de Ponta no time de vôlei masculino da instituição. Durante a ausência do técnico Ukai devido a hospitalização, Daichi assumiu o papel de liderança como um dos capitães e temporariamente desempenhou funções de treinador. Possuindo cabelos curtos e escuros, olhos castanhos escuros e uma presença reconfortante, Daichi não é considerado alto, mas exibe massa muscular. Reconhecido por sua recepção sólida, ele é especialista defensivo e frequentemente lida com recebimentos desafiadores, além de cobrir os erros dos companheiros de equipe. Seu conhecimento do jogo, adquirido ao aprender táticas por conta própria durante o primeiro ano devido à falta de treinador, destaca-se. Após o Arco da Expedição de Tóquio, Daichi aprimorou ainda mais suas habilidades defensivas e ganhou a capacidade de visualizar os movimentos do adversário com mais clareza, inclusive utilizando a forma do cravo adversário para antecipar trajetórias de ataques.</p>
 
-<div style="display: flex; justify-content: space-between;">
+<div style="display: flex; justify-content: center;">
 
-<img src="./img/tsukli.jpg" alt="Gif do Nishinoya" height=200>
+<img src="./img/tsukli.jpg" alt="Gif do Tsukishima" height=200 style="margin-right: 10vw;">
 
-<img src="./gifs/middleblocker-block.gif" alt="Imagem do Nishinoya" height=200>
+<img src="./gifs/middleblocker-block.gif" alt="Imagem do Tsukishima" height=200>
   
 </div>
 
@@ -165,10 +174,10 @@ Haikyuu é um anime que nos ensina que o esforço e a dedicação podem superar 
 
 <p style="margin-top: 30px;">Kei Tsukishima, aluno do primeiro ano na escola Karasuno e bloqueador central no time de vôlei, é conhecido por sua altura notável de 188.3 centímetros, cabelos loiros e uma expressão frequentemente carrancuda. Vestindo o uniforme padrão do vôlei Karasuno durante as partidas, destaca-se por usar óculos esportivos graduados. Apesar de sua natureza antagônica e atitude presunçosa, Tsukishima revela baixa autoestima e uma considerável insegurança. Apesar de sua personalidade aparentemente desinteressada, ele tem uma paixão oculta pelo vôlei, intensificada após um confronto inspirador durante um treinamento em Tóquio. Seu crescimento no esporte é evidenciado pelo aprimoramento de suas habilidades e motivação, especialmente após bloquear Ushijima. Embora mantenha uma postura calma, Tsukishima usa a subestimação como motivação, e seu irmão Akiteru descreve-o como um menino trabalhador e gentil.</p>
 
-<div style="display: flex; justify-content: space-between;">
-<img src="./gifs/pinch-server.gif" alt="Imagem do Nishinoya" height=200>
+<div style="display: flex; justify-content: center;">
+<img src="./gifs/pinch-server.gif" alt="Imagem do Yamaguchi" height=200 style="margin-right: 10vw;">
 
-<img src="./img/tadashi.jpg" alt="Gif do Nishinoya" height=200>
+<img src="./img/tadashi.jpg" alt="Gif do Yamaguchi" height=200>
 
 </div>
 
@@ -191,7 +200,7 @@ Ao decorrer do anime são apresentadas algumas estratégias de vôlei que até m
 ### 1. Synchronized Attack
 
 <center>
-<img src="./img/synchronized-attack.jpg" alt="Gif do Nishinoya" height=400>
+<img src="./img/synchronized-attack.jpg" alt="Gif do Nishinoya" height=400 >
 </center>
 
 O ataque sincronizado, ou "synchronized attack" em inglês, é uma técnica que envolve uma coordenação precisa entre os jogadores para criar um ataque eficaz. No contexto de Haikyuu!!, o ataque sincronizado é frequentemente representado pelos conjuntos bem coordenados de Kageyama e os ataques precisos de seus companheiros de equipe, especialmente Hinata. O rápido entendimento e sincronia entre o levantador e os atacantes são essenciais para a execução bem-sucedida dessa técnica. Isso reflete a importância da comunicação e trabalho em equipe no vôlei profissional, onde ataques sincronizados podem superar a defesa adversária de maneira eficiente.
