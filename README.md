@@ -1,5 +1,5 @@
 <center>
-    <h1>Haikyuu!! 🏐</h1>
+    <h1>Haikyuu!!🏐</h1>
 </center>
 
 <center>
@@ -7,13 +7,15 @@
 </center>
 
 
-- [📝Índice](#índice)
 - [📚 Sinopse e Introdução ao Anime](#-sinopse-e-introdução-ao-anime)
 - [🐱‍👤 Personagens Principais](#-personagens-principais)
 - [🏐 Algumas Técnicas de Vôlei apresentadas](#-algumas-técnicas-de-vôlei-apresentadas)
   - [1. Synchronized Attack](#1-synchronized-attack)
   - [2. Setter Dump](#2-setter-dump)
   - [3. Quick Attack](#3-quick-attack)
+  - [1. Synchronized Attack](#1-synchronized-attack-1)
+  - [2. Setter Dump](#2-setter-dump-1)
+  - [3. Quick Attack](#3-quick-attack-1)
 - [📺 Temporadas e Filmes](#-temporadas-e-filmes)
   - [Temporada 1](#temporada-1)
   - [Temporada 2](#temporada-2)
@@ -22,6 +24,7 @@
   - [Primeiro filme](#primeiro-filme)
   - [Segundo filme (FINAL)](#segundo-filme-final)
 - [🤩 Motivo de escolha do Anime](#-motivo-de-escolha-do-anime)
+  - [Autores: Beatriz Nascimento e Pedro Nogueira](#autores-beatriz-nascimento-e-pedro-nogueira)
 
 ## 📚 Sinopse e Introdução ao Anime
 
@@ -372,3 +375,6 @@ O último filme de Haikyuu deve mostrar o final da trama, apesar de não ter mui
 ## 🤩 Motivo de escolha do Anime
 
 A príncipio escolhemos esse anime como tema do nosso readme pois é um que nos temos em comum e simpatizamos bastante, além de que a história de cada personagem é única e o desenvolvimento de cada um tem sua interferência positiva principalmente no trabalho em equipe.
+
+
+### Autores: [Beatriz Nascimento](https://github.com/beatrizgnascimento) e [Pedro Nogueira](https://github.com/PedroNB10)
